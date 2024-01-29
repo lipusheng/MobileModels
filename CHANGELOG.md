@@ -1,4 +1,9 @@
 # 更新日志
+## 2024-01-30
+- `huawei_cn` 新增部分商用型号。
+- `oneplus` 增补 OnePlus 12R 海外版型号。
+## 2024-01-29
+- `realme_cn` 新增 真我 12 Pro 系列。
 ## 2024-01-25
 - `huawei_cn` 增补 HUAWEI MatePad 11.5 全网通版。
 ## 2024-01-24
