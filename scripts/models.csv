@@ -1218,8 +1218,8 @@ VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2,#
 VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 至臻版,#
 VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 RSR 保时捷设计,#
 VER-AN00,mob,honor,荣耀,,,荣耀 Magic Vs2,#
-BVL-AN00,mob,honor,荣耀,,,荣耀 Magic6,#
-BVL-AN16,mob,honor,荣耀,,,荣耀 Magic6 Pro,#
+BVL-AN00,mob,honor,荣耀,,Bvlgari,荣耀 Magic6,#
+BVL-AN16,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 Pro,#
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,#移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,#联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,#移动定制版
@@ -1866,6 +1866,8 @@ HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,#
+HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#Wi-Fi
+HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#5G
 ELN-W09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#Wi-Fi
 ELN-L03,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
 ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
@@ -5732,6 +5734,7 @@ V2240,mob,vivo,vivo,,,T2,#5G
 V2321,mob,vivo,vivo,,,T2 Pro,#5G
 V2253,mob,vivo,vivo,,,T2x,#5G
 V2312,mob,vivo,vivo,,,T2x,#5G
+V2334,mob,vivo,vivo,,,T3,#5G
 vivo 1929,mob,vivo,vivo,,,Y1s,#
 vivo 2015,mob,vivo,vivo,,,Y1s,#
 vivo 2015_21,mob,vivo,vivo,,,Y1s,#
@@ -5750,6 +5753,7 @@ V2229,mob,vivo,vivo,,,Y02s,#
 V2252,mob,vivo,vivo,,,Y02t,#
 V2254,mob,vivo,vivo,,,Y02t,#
 V2325,mob,vivo,vivo,,,Y02t,#
+V2332,mob,vivo,vivo,,,Y03,#
 V2028,mob,vivo,vivo,,,Y11s,#
 vivo 1904,mob,vivo,vivo,,,Y12,#
 V2026,mob,vivo,vivo,,,Y12A,#
@@ -5773,6 +5777,9 @@ V2305,mob,vivo,vivo,,,Y16,#
 vivo 1902,mob,vivo,vivo,,,Y17,#
 V2310,mob,vivo,vivo,,,Y17s,#
 V2331,mob,vivo,vivo,,,Y17s,#
+V2333,mob,vivo,vivo,,,Y18,#
+V2345,mob,vivo,vivo,,,Y18,#
+V2350,mob,vivo,vivo,,,Y18e,#
 vivo 1915,mob,vivo,vivo,,,Y19,#
 V2027,mob,vivo,vivo,,,Y20,#
 V2037,mob,vivo,vivo,,,Y20G,#
@@ -5866,6 +5873,7 @@ I2213,mob,vivo,vivo,,,iQOO Z7,#5G
 I2223,mob,vivo,vivo,,,iQOO Z7s,#5G
 I2216,mob,vivo,vivo,,,iQOO Z7x,#5G
 I2301,mob,vivo,vivo,,,iQOO Z7 Pro,#5G
+I2302,mob,vivo,vivo,,,iQOO Z9,#5G
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,#联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,#电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,#青春版
