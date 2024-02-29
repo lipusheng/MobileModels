@@ -1209,8 +1209,8 @@ MGI-AN00,mob,honor,荣耀,,Maggie,荣耀 Magic V,#
 LGE-AN00,mob,honor,荣耀,,Lange,荣耀 Magic4,#
 LGE-AN10,mob,honor,荣耀,,Lange,荣耀 Magic4 Pro,#
 LGE-AN20,mob,honor,荣耀,,Lange,荣耀 Magic4 至臻版,#
-FRI-AN00,mob,honor,荣耀,,,荣耀 Magic Vs,#
-FRI-AN10,mob,honor,荣耀,,,荣耀 Magic Vs 至臻版,#
+FRI-AN00,mob,honor,荣耀,,Ferrari,荣耀 Magic Vs,#
+FRI-AN10,mob,honor,荣耀,,Ferrari,荣耀 Magic Vs 至臻版,#
 PGT-AN00,mob,honor,荣耀,,Piaget,荣耀 Magic5,#
 PGT-AN10,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#
 PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#
@@ -1815,11 +1815,16 @@ CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#5G
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#5G
-FRI-NX9,mob,honor,HONOR,,,HONOR Magic Vs,#
+FRI-NX9,mob,honor,HONOR,,Ferrari,HONOR Magic Vs,#
 PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#5G
 PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 RMO-NX3,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
+VER-N49,mob,honor,HONOR,,,HONOR Magic V2,#
+VER-N49DP,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic V2 RSR,#
+BVL-N09,mob,honor,HONOR,,Bvlgari,HONOR Magic6,#5G
+BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#5G
+BVL-N59,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
@@ -3280,7 +3285,9 @@ M381Q,mob,meizu,魅族,,m2381,魅族 20|魅族 20 Classic,#
 M381Q,mob,meizu,魅族,,m2381,魅族 20|魅族 20 Classic,1#
 M391Q,mob,meizu,魅族,,m2391,魅族 20 PRO,#
 M392Q,mob,meizu,魅族,,m2392,魅族 20 INFINITY 无界版,#
-M461Q,mob,meizu,魅族,,m2461,魅族 21,#
+M461Q,mob,meizu,魅族,,m2461,魅族 21,#公开版
+M461H,mob,meizu,魅族,,m2461,魅族 21,#国际版
+M481Q,mob,meizu,魅族,,m2481,魅族 21 PRO,#
 M852Q,mob,meizu,魅族,,m1852,魅族 X8,#公开版
 M852H,mob,meizu,魅族,,m1852,魅族 X8,#国际版
 M813Q,mob,meizu,魅族,,m1813,魅族 V8 高配版,#
@@ -3387,6 +3394,7 @@ M57AU,mob,meizu,魅族,,ma01,魅蓝 metal,#联通版
 M57AC,mob,meizu,魅族,,ma01,魅蓝 metal,#电信版
 M710M,mob,meizu,魅族,,m1710,魅蓝 A5,#移动定制版
 M710H,mob,meizu,魅族,,m1710,魅蓝 A5,魅族 M5c 国际版
+M481S,mob,meizu,魅族,,m2481,Polestar Phone,#
 M8,mob,meizu,MEIZU,,,MEIZU M8,#
 M8SE,mob,meizu,MEIZU,,,MEIZU M8,#SE
 M9,mob,meizu,MEIZU,,,MEIZU M9,#
@@ -3443,15 +3451,15 @@ M871H,mob,meizu,MEIZU,,m1871,MEIZU 15 Lite,#Global
 M871Q,mob,meizu,MEIZU,,m1871,MEIZU 15 Lite,#M15 China
 M882H,mob,meizu,MEIZU,,m1882,MEIZU 16th,#Global
 M882Q,mob,meizu,MEIZU,,m1882,MEIZU 16th,#China
-M892Q,mob,meizu,MEIZU,,m1892,MEIZU 16th Plus,#China
+M892Q,mob,meizu,MEIZU,,m1892,MEIZU 16th Plus,#
 M872H,mob,meizu,MEIZU,,m1872,MEIZU 16,#Global
 M872Q,mob,meizu,MEIZU,,m1872,MEIZU 16,#X China
 M971H,mob,meizu,MEIZU,,m1971,MEIZU 16s,#Global
 M971Q,mob,meizu,MEIZU,,m1971,MEIZU 16s,#China
 M926H,mob,meizu,MEIZU,,m1926,MEIZU 16Xs,#Global
 M926Q,mob,meizu,MEIZU,,m1926,MEIZU 16Xs,#China
-M973Q,mob,meizu,MEIZU,,m1973,MEIZU 16s Pro,#China
-M928Q,mob,meizu,MEIZU,,m1928,MEIZU 16T,#China
+M973Q,mob,meizu,MEIZU,,m1973,MEIZU 16s Pro,#
+M928Q,mob,meizu,MEIZU,,m1928,MEIZU 16T,#
 M081Q,mob,meizu,MEIZU,,m2081,MEIZU 17,#China
 M081M,mob,meizu,MEIZU,,m2081,MEIZU 17,#Carrier version
 M091Q,mob,meizu,MEIZU,,m2091,MEIZU 17 Pro,#China
@@ -3465,7 +3473,9 @@ M381Q,mob,meizu,MEIZU,,m2381,MEIZU 20|MEIZU 20 Classic,#
 M381Q,mob,meizu,MEIZU,,m2381,MEIZU 20|MEIZU 20 Classic,1#
 M391Q,mob,meizu,MEIZU,,m2391,MEIZU 20 PRO,#
 M392Q,mob,meizu,MEIZU,,m2392,MEIZU 20 INFINITY,#
-M461Q,mob,meizu,MEIZU,,m2461,MEIZU 21,#
+M461Q,mob,meizu,MEIZU,,m2461,MEIZU 21,#China
+M461H,mob,meizu,MEIZU,,m2461,MEIZU 21,#Global
+M481Q,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,#
 M463H,mob,meizu,MEIZU,,m71,MEIZU m1 note,#Global
 M463M,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Mobile
 M463U,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Unicom
@@ -3572,6 +3582,7 @@ U685M,mob,meizu,MEIZU,,u15,MEIZU U20,#China Mobile
 U685C,mob,meizu,MEIZU,,u15,MEIZU U20,#China Telecom
 M818H,mob,meizu,MEIZU,,m1818,MEIZU C9,#Global
 M819H,mob,meizu,MEIZU,,m1819,MEIZU C9 Pro,#Global
+M481S,mob,meizu,MEIZU,,m2481,Polestar Phone,#
 L47M1-AA,tv,mitv,小米,,,小米电视,#47 英寸
 L40M2-AA,tv,mitv,小米,,,小米电视 2,#40 英寸
 L49M2-AA,tv,mitv,小米,,,小米电视 2,#49 英寸
@@ -4241,10 +4252,16 @@ CPH2605,mob,oneplus,一加,,fanli,OnePlus Nord N30 SE,#欧洲版
 DE2117,mob,oneplus,一加,,dre9,OnePlus Nord N200,#北美版
 DE2118,mob,oneplus,一加,,dre8t,OnePlus Nord N200,#T-Mobile 版
 CPH2389,mob,oneplus,一加,,,OnePlus Nord N300,#
-CPH2551,mob,oneplus,一加,,hedwig,OnePlus Open,#
+CPH2551,pad,oneplus,一加,,hedwig,OnePlus Open,#
 OPD2203,pad,oneplus,一加,,aries,OnePlus Pad,#
 OPD2304,pad,oneplus,一加,,bluey,OnePlus Pad Go,#LTE
 OPD2305,pad,oneplus,一加,,bluey,OnePlus Pad Go,#Wi-Fi
+W101IN,band,oneplus,一加,,,OnePlus Band,#印度版
+OPBBE221,watch,oneplus,一加,,,OnePlus Nord Watch,#国际版
+W301CN,watch,oneplus,一加,,,OnePlus Watch,#国行版 / Cyberpunk 2077 限定版
+W501CN,watch,oneplus,一加,,,OnePlus Watch,#钴合金限定版(国行)
+W301GB,watch,oneplus,一加,,,OnePlus Watch,#国际版 / 钴合金限定版(国际)
+OPWWE231,watch,oneplus,一加,,almond,OnePlus Watch 2,#国际版
 ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
 ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
 ONE A2001,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,#China
@@ -4378,10 +4395,16 @@ CPH2605,mob,oneplus,OnePlus,,fanli,OnePlus Nord N30 SE,#EU
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,#North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,#T-Mobile
 CPH2389,mob,oneplus,OnePlus,,,OnePlus Nord N300,#
-CPH2551,mob,oneplus,OnePlus,,hedwig,OnePlus Open,#
+CPH2551,pad,oneplus,OnePlus,,hedwig,OnePlus Open,#
 OPD2203,pad,oneplus,OnePlus,,aries,OnePlus Pad,#
 OPD2304,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#LTE
 OPD2305,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#Wi-Fi
+W101IN,band,oneplus,OnePlus,,,OnePlus Band,#India
+OPBBE221,watch,oneplus,OnePlus,,,OnePlus Nord Watch,#Global
+W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,#China / Cyberpunk 2077 Limited Edition
+W501CN,watch,oneplus,OnePlus,,,OnePlus Watch,#Cobalt Limited Edition (China)
+W301GB,watch,oneplus,OnePlus,,,OnePlus Watch,#Global / Cobalt Limited Edition (Global)
+OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,#Global
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,#标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,#标准版 移动版
 PAHM00,mob,oppo,OPPO,,,OPPO Find X,#超级闪充版/兰博基尼版 全网通版
@@ -4550,20 +4573,28 @@ OPD2101,pad,oppo,OPPO,,,OPPO Pad,#
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,#
 OPD2301,pad,oppo,OPPO,,bluey,OPPO Pad Air2,#
-OW19W1,watch,oppo,OPPO,,,OPPO Watch,#46mm
-OW19W2,watch,oppo,OPPO,,,OPPO Watch,#41mm
-OW19W3,watch,oppo,OPPO,,,OPPO Watch,#ECG/精钢版
-OWW202,watch,oppo,OPPO,,,OPPO Watch 2,#42mm 蓝牙版
-OW20W1,watch,oppo,OPPO,,,OPPO Watch 2,#46mm eSIM 版
-OW20W2,watch,oppo,OPPO,,,OPPO Watch 2,#42mm eSIM 版
-OW20W3,watch,oppo,OPPO,,,OPPO Watch 2,#46mm ECG
+OB19B1,band,oppo,OPPO,,,OPPO Band,#标准版 / 名侦探柯南限定版
+OB19B3,band,oppo,OPPO,,,OPPO Band,#NFC 版
+OB19O0,band,oppo,OPPO,,,OPPO Band,#时尚版
+OB19O1,band,oppo,OPPO,,,OPPO Band,#运动版
+OB19O2,band,oppo,OPPO,,,OPPO Band,#EVA 限定版
+OBB211,band,oppo,OPPO,,haisenberg,OPPO Band 2,#标准版
+OBB213,band,oppo,OPPO,,haisenberg,OPPO Band 2,#NFC 版
+OR19R1,watch,oppo,OPPO,,,OPPO Watch RX,#英雄联盟限定版
 OWW206,watch,oppo,OPPO,,,OPPO Watch Free,#标准版
 OWW208,watch,oppo,OPPO,,,OPPO Watch Free,#NFC 版
+OW19W1,watch,oppo,OPPO,,,OPPO Watch,#46mm / EVA 限定版 / 故宫新禧版
+OW19W2,watch,oppo,OPPO,,,OPPO Watch,#41mm
+OW19W3,watch,oppo,OPPO,,,OPPO Watch,#ECG / 精钢版
+OWW202,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#42mm 蓝牙版
+OW20W1,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#46mm eSIM 版 / 李宁限定版
+OW20W2,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#42mm eSIM 版 / 名侦探柯南限定版
+OW20W3,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#46mm ECG
 OWW212,watch,oppo,OPPO,,,OPPO Watch 3,#
 OWW211,watch,oppo,OPPO,,,OPPO Watch 3,#Pro
 OWW213,watch,oppo,OPPO,,,OPPO Watch 3,#SE
 OWW221,watch,oppo,OPPO,,comet,OPPO Watch 4 Pro,#
-OWW231,watch,oppo,OPPO,,star,OPPO Watch 4 Round,#
+OWW231,watch,oppo,OPPO,,star,OPPO Watch X,#
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,#
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,#
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,#
@@ -4647,7 +4678,8 @@ CPH2541,mob,oppo,OPPO,,,OPPO Reno10 Pro,#5G (Japan)
 CPH2521,mob,oppo,OPPO,,,OPPO Reno10 Pro+,#5G
 CPH2599,mob,oppo,OPPO,,,OPPO Reno11,#5G
 CPH2607,mob,oppo,OPPO,,,OPPO Reno11 Pro,#5G
-CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,1#
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
@@ -4673,6 +4705,7 @@ CPH2461,mob,oppo,OPPO,,,OPPO F21s Pro,#
 CPH2455,mob,oppo,OPPO,,,OPPO F21s Pro,#5G
 CPH2481,mob,oppo,OPPO,,,OPPO F23,#
 CPH2527,mob,oppo,OPPO,,,OPPO F23,#5G
+CPH2603,mob,oppo,OPPO,,,OPPO F25 Pro,#5G
 CPH1835,mob,oppo,OPPO,,,OPPO R15,#
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,#
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,#
@@ -4783,10 +4816,13 @@ OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
 OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,#LTE
+OB19B1,band,oppo,OPPO,,,OPPO Band,#Style
+OBBE215,band,oppo,OPPO,,,OPPO Band 2,#Japan
+OWWE201,watch,oppo,OPPO,,,OPPO Watch Free,#
 OW19W6,watch,oppo,OPPO,,beluga,OPPO Watch,#41mm Wi-Fi
 OW19W8,watch,oppo,OPPO,,beluga,OPPO Watch,#46mm Wi-Fi
 OW19W12,watch,oppo,OPPO,,belugaxl,OPPO Watch,#46mm LTE
-OWWE201,watch,oppo,OPPO,,,OPPO Watch Free,#
+OWWE231,watch,oppo,OPPO,,,OPPO Watch X,#
 RMX1901,mob,realme,realme,,,真我 X,#
 RMX1851,mob,realme,realme,,,真我 X 青春版,#
 RMX1991,mob,realme,realme,,,真我 X2,#
@@ -4929,6 +4965,7 @@ RMX3780,mob,realme,realme,,,11 5G,#
 RMX3785,mob,realme,realme,,,11x 5G,#
 RMX3771,mob,realme,realme,,,11 Pro 5G,#
 RMX3741,mob,realme,realme,,,11 Pro+ 5G,#
+RMX3867,mob,realme,realme,,,12+ 5G,#
 RMX3842,mob,realme,realme,,,12 Pro 5G,#
 RMX3840,mob,realme,realme,,,12 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
@@ -5440,6 +5477,8 @@ V2266A,mob,vivo,vivo,,PD2266,X Fold2,#
 V2256A,mob,vivo,vivo,,PD2256,X Flip,#
 V2309A,mob,vivo,vivo,,PD2309,X100,#
 V2324A,mob,vivo,vivo,,PD2324,X100 Pro,#
+V2303A,mob,vivo,vivo,,PD2303,X Fold3,#
+V2337A,mob,vivo,vivo,,PD2337,X Fold3 Pro,#
 V1831A,mob,vivo,vivo,,PD1831,S1,#全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,#移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,#全网通版
@@ -5499,8 +5538,8 @@ V2068A,mob,vivo,vivo,,PD2068,Y31s 标准版,#5G
 V2068A,mob,vivo,vivo,,PD2068,Y31s (t1 版),#5G
 V2054A,mob,vivo,vivo,,PD2092,Y31s (t2 版),#5G
 V2158A,mob,vivo,vivo,,PD2158,Y32,#
-V2168A,mob,vivo,vivo,,PD2168,Y32t,#8GB+128GB
-V2180A,mob,vivo,vivo,,PD2180,Y32t,#8GB+256GB
+V2168A,mob,vivo,vivo,,PD2168,Y32t,#P70
+V2180A,mob,vivo,vivo,,PD2180,Y32t,#骁龙 680
 V2166A,mob,vivo,vivo,,PD2166,Y33s,#5G
 V2166A,mob,vivo,vivo,,PD2166,Y33e,#5G
 V2317A,mob,vivo,vivo,,PD2317,Y33t,#
@@ -5644,6 +5683,7 @@ V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
 V2148A,mob,vivo,vivo,,PD2148,iQOO Z5,#
 V2131A,mob,vivo,vivo,,PD2131,iQOO Z5x,#
 V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#
+V2220A,mob,vivo,vivo,,PD2220,iQOO Z6,#活力版
 V2164KA,mob,vivo,vivo,,PD2164U,iQOO Z6x,#
 V2270A,mob,vivo,vivo,,PD2270,iQOO Z7,#
 V2272A,mob,vivo,vivo,,PD2272,iQOO Z7x,#
@@ -5662,6 +5702,7 @@ PA2170,pad,vivo,vivo,,DPD2106,,#vivo Pad
 PA2373,pad,vivo,vivo,,DPD2221,2,#
 PA2353,pad,vivo,vivo,,DPD2305,Air,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
+iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 vivo 1939,mob,vivo,vivo,,,X50,#
 vivo 2004,mob,vivo,vivo,,,X50,#
 vivo 2005,mob,vivo,vivo,,,X50,#
@@ -6695,7 +6736,7 @@ A301XM,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Japan (SoftBank)
 23127PN0CG,mob,xiaomi,Xiaomi,N3,houji,Xiaomi 14,#Global
 23127PN0CC,mob,xiaomi,Xiaomi,N3,houji,Xiaomi 14,#China
 23116PN5BC,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#China
-2311BPN23C,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#Ti Satellite Communication Edition China
+2311BPN23C,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#Ti Satellite China
 24030PN60G,mob,xiaomi,Xiaomi,N1,aurora,Xiaomi 14 Ultra,#Global
 24031PN0DC,mob,xiaomi,Xiaomi,N1,aurora,Xiaomi 14 Ultra,#China
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#Global

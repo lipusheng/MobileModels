@@ -190,6 +190,14 @@
 
 `V2324A`: vivo X100 Pro
 
+**vivo X Fold3 (`PD2303`):**
+
+`V2303A`: vivo X Fold3
+
+**vivo X Fold3 Pro (`PD2337`):**
+
+`V2337A`: vivo X Fold3 Pro
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -410,11 +418,11 @@
 
 **vivo Y32t (`PD2168`):**
 
-`V2168A`: vivo Y32t (8GB+128GB)
+`V2168A`: vivo Y32t (P70)
 
 **vivo Y32t (`PD2180`):**
 
-`V2180A`: vivo Y32t (8GB+256GB)
+`V2180A`: vivo Y32t (骁龙 680)
 
 **vivo Y33s (`PD2166`):**
 
@@ -916,7 +924,7 @@
 
 **iQOO Z6 (`PD2220`):**
 
-`V2220A`: iQOO Z6
+`V2220A`: iQOO Z6 / iQOO Z6 活力版
 
 **iQOO Z6x (`PD2164U`):**
 
@@ -993,3 +1001,7 @@
 **iQOO Pad (`DPD2307`):**
 
 `iPA2375`: iQOO Pad
+
+**iQOO Pad Air (`DPD2305`):**
+
+`iPA2451`: iQOO Pad Air
