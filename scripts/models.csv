@@ -1220,6 +1220,8 @@ VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 RSR 保时捷设计,#
 VER-AN00,mob,honor,荣耀,,,荣耀 Magic Vs2,#
 BVL-AN00,mob,honor,荣耀,,Bvlgari,荣耀 Magic6,#
 BVL-AN16,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 Pro,#
+BVL-AN20,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 至臻版,#
+BVL-AN20,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 RSR 保时捷设计,#
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,#移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,#联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,#移动定制版
@@ -7395,6 +7397,7 @@ ZTE 1010L,mob,zte,中兴,,,中兴畅行 30,#
 ZTE 7542N,mob,zte,中兴,,,中兴远航 40,#
 ZTE 9042N,mob,zte,中兴,,,中兴远航 40 Pro+,#
 ZTE 7541N,mob,zte,中兴,,,中兴远航 41,#
+ZTE 7546N,mob,zte,中兴,,,中兴远航 41S,#
 ZTE 1021L,mob,zte,中兴,,,中兴畅行 40 SE,#
 ZTE 7543N,mob,zte,中兴,,,中兴小鲜 50 / 中兴畅行 50,#
 ZTE 9041N,mob,zte,中兴,,,中兴 V70,#
