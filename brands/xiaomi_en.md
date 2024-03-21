@@ -399,7 +399,7 @@
 
 **[`N2`] Xiaomi 14 Pro (`shennong`):**
 
-`23116PN5BC`: Xiaomi 14 Pro China
+`23116PN5BC`: Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China
 
 `2311BPN23C`: Xiaomi 14 Pro Ti Satellite China
 
@@ -554,6 +554,10 @@
 **[`M9`] Xiaomi Civi 3 (`yuechu`):**
 
 `23046PNC9C`: Xiaomi Civi 3 China
+
+**[`N9`] Xiaomi Civi 4 Pro (`chenfeng`):**
+
+`24053PY09C`: Xiaomi Civi 4 Pro China
 
 **[`F9`] Mi Play (`lotus`):**
 
@@ -1974,10 +1978,6 @@
 `23073RPBFL`: Redmi Pad SE Latin America
 
 ## Others
-
-**Mi Watch (`baiji`):**
-
-`XMWT01`: Mi Watch
 
 **Xiaomi Mijia Translator (`FYJ01QP`):**
 
