@@ -1,4 +1,8 @@
 # 更新日志
+## 2024-04-26
+- `honor_cn` 新增 荣耀平板 Z7。
+## 2024-04-25
+- `honor_cn` 新增 荣耀平板 9 Pro。
 ## 2024-04-22
 - `samsung_cn` 新增 Galaxy C55。
 - `zhixuan` 新增 Hi nova 12 SE。
