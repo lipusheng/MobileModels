@@ -1,4 +1,7 @@
 # 更新日志
+## 2024-05-16
+- `lenovo` 新增 小新 Pad Studio。
+- `motorola` 新增 moto X50 Ultra。
 ## 2024-05-15
 - `honor_cn` 新增 荣耀笔记本 X 2024 锐龙版。
 - `huawei_cn` 新增 MatePad 11.5 S, MateBook 14 2024, nova 12 Ultra 星耀版。
