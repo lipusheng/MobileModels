@@ -1,4 +1,7 @@
 # CHANGELOG
+## 2024-05-31
+- `oppo_global_en` Add OPPO Reno12 F.
+- `vivo_global_en` Add several new models.
 ## 2024-05-30
 - `oneplus_en` Add OnePlus Ace 3 Pro.
 - `oppo_global_en` Add several new models.
