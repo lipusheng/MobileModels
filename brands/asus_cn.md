@@ -2,7 +2,7 @@
 
 - 汇总范围: ROG Phone 等
 - codename: ✅
-- 是否包含海外机型: ❌
+- 是否包含海外机型: [单独汇总 (英文)](/brands/asus_en.md)
 
 **ROG Phone (`ZS600KL`):**
 
@@ -49,6 +49,10 @@
 **ROG Phone 8 (`AI2401`):**
 
 `ASUS_AI2401_A`: ROG 游戏手机 8 / ROG 游戏手机 8 Pro
+
+**ROG Phone 9 (`AI2501`):**
+
+`ASUSAI2501A`: ROG 游戏手机 9 / ROG 游戏手机 9 Pro
 
 **Smartphone for Snapdragon Insiders:**
 

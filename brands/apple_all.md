@@ -1,6 +1,6 @@
 # Apple 设备型号汇总
 
-- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch
+- 汇总范围: 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision
 - codename: ✅
 - 是否包含海外机型: ✅
 
@@ -194,12 +194,6 @@
 
 `A2099`: iPhone XS (中国移动)
 
-**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
-
-`A2104`: iPhone XS Max (中国大陆 & 港澳)
-
-`A2103`: iPhone XS Max (中国移动)
-
 **[`D331pAP`] iPhone XS Max (`iPhone11,6`):**
 
 `A1921`: iPhone XS Max (北美)
@@ -207,6 +201,12 @@
 `A2101`: iPhone XS Max (GSM)
 
 `A2102`: iPhone XS Max (日本)
+
+`A2104`: iPhone XS Max (中国大陆 & 港澳)
+
+**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
+
+`A2103`: iPhone XS Max (中国移动)
 
 **[`N841AP`] iPhone XR (`iPhone11,8`):**
 
@@ -448,6 +448,56 @@
 
 `A3106`: iPhone 15 Pro Max (其他国家和地区)
 
+**[`D47AP`] iPhone 16 (`iPhone17,3`):**
+
+`A3081`: iPhone 16 (美国)
+
+`A3286`: iPhone 16 (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3288`: iPhone 16 (中国大陆 & 港澳)
+
+`A3287`: iPhone 16 (其他国家和地区)
+
+**[`D48AP`] iPhone 16 Plus (`iPhone17,4`):**
+
+`A3082`: iPhone 16 Plus (美国)
+
+`A3289`: iPhone 16 Plus (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3291`: iPhone 16 Plus (中国大陆 & 港澳)
+
+`A3290`: iPhone 16 Plus (其他国家和地区)
+
+**[`D93AP`] iPhone 16 Pro (`iPhone17,1`):**
+
+`A3083`: iPhone 16 Pro (美国)
+
+`A3292`: iPhone 16 Pro (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3294`: iPhone 16 Pro (中国大陆 & 港澳)
+
+`A3293`: iPhone 16 Pro (其他国家和地区)
+
+**[`D94AP`] iPhone 16 Pro Max (`iPhone17,2`):**
+
+`A3084`: iPhone 16 Pro Max (美国)
+
+`A3295`: iPhone 16 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)
+
+`A3297`: iPhone 16 Pro Max (中国大陆 & 港澳)
+
+`A3296`: iPhone 16 Pro Max (其他国家和地区)
+
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3212`: iPhone 16e (美国)
+
+`A3408`: iPhone 16e (加拿大, 墨西哥, 部分中东国家)
+
+`A3410`: iPhone 16e (中国大陆)
+
+`A3409`: iPhone 16e (其他国家和地区)
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -554,6 +604,16 @@
 
 `A3162`: iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM, 中国大陆)
 
+**[`J481AP`] iPad (A16) (`iPad15,7`):**
+
+`A3354`: iPad (A16) (无线局域网)
+
+**[`J482AP`] iPad (A16) (`iPad15,8`):**
+
+`A3355`: iPad (A16) (无线局域网 + 蜂窝网络)
+
+`A3356`: iPad (A16) (无线局域网 + 蜂窝网络) (中国大陆)
+
 ## iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**
@@ -625,6 +685,26 @@
 `A2899`: iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)
 
 `A2900`: iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络) (中国大陆)
+
+**[`J607AP`] iPad Air (11 英寸, M3) (`iPad15,3`):**
+
+`A3266`: iPad Air (11 英寸, M3) (无线局域网)
+
+**[`J608AP`] iPad Air (11 英寸, M3) (`iPad15,4`):**
+
+`A3267`: iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)
+
+`A3270`: iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)
+
+**[`J637AP`] iPad Air (13 英寸, M3) (`iPad15,5`):**
+
+`A3268`: iPad Air (13 英寸, M3) (无线局域网)
+
+**[`J638AP`] iPad Air (13 英寸, M3) (`iPad15,6`):**
+
+`A3269`: iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)
+
+`A3271`: iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络) (中国大陆)
 
 ## iPad Pro
 
@@ -884,6 +964,16 @@
 
 `A2569`: iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (中国大陆)
 
+**[`J410AP`] iPad mini (A17 Pro) (`iPad16,1`):**
+
+`A2993`: iPad mini (A17 Pro) (无线局域网)
+
+**[`J411AP`] iPad mini (A17 Pro) (`iPad16,2`):**
+
+`A2995`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
+
+`A2996`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
+
 ## Apple Watch
 
 **[`N27aAP`] Apple Watch (第 1 代) (`Watch1,1`):**
@@ -1119,6 +1209,72 @@
 `A2986`: Apple Watch Ultra 2 (全球)
 
 `A2987`: Apple Watch Ultra 2 (中国大陆 & 港澳)
+
+**[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
+
+`A2997`: Apple Watch Series 10 (GPS) (42 毫米表壳) (全球)
+
+`A2998`: Apple Watch Series 10 (GPS) (42 毫米表壳) (中国大陆, 印度尼西亚)
+
+**[`N217bAP`] Apple Watch Series 10 (`Watch7,9`):**
+
+`A2999`: Apple Watch Series 10 (GPS) (46 毫米表壳) (全球)
+
+`A3000`: Apple Watch Series 10 (GPS) (46 毫米表壳) (中国大陆, 印度尼西亚)
+
+**[`N218sAP`] Apple Watch Series 10 (`Watch7,10`):**
+
+`A3001`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
+
+`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)
+
+**[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
+
+`A3003`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
+
+`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)
+
+## Apple TV
+
+**Apple TV (第 1 代) (`AppleTV1,1`):**
+
+`A1218`: Apple TV (第 1 代)
+
+**[`K66AP`] Apple TV (第 2 代) (`AppleTV2,1`):**
+
+`A1378`: Apple TV (第 2 代)
+
+**[`J33AP`] Apple TV (第 3 代) (`AppleTV3,1`):**
+
+`A1427`: Apple TV (第 3 代)
+
+**[`J33IAP`] Apple TV (第 3 代) (`AppleTV3,2`):**
+
+`A1469`: Apple TV (第 3 代) (Rev A)
+
+**[`J42dAP`] Apple TV HD (`AppleTV5,3`):**
+
+`A1625`: Apple TV HD
+
+**[`J105aAP`] Apple TV 4K (`AppleTV6,2`):**
+
+`A1842`: Apple TV 4K
+
+**[`J305AP`] Apple TV 4K (第 2 代) (`AppleTV11,1`):**
+
+`A2169`: Apple TV 4K (第 2 代)
+
+**[`J255AP`] Apple TV 4K (第 3 代) (`AppleTV14,1`):**
+
+`A2737`: Apple TV 4K (第 3 代) (无线局域网)
+
+`A2843`: Apple TV 4K (第 3 代) (无线局域网 + 以太网)
+
+## Apple Vision
+
+**[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
+
+`A2117`: Apple Vision Pro
 
 ## iPod touch
 

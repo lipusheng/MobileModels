@@ -54,7 +54,7 @@
 
 `XT1799-1` `XT1799-2`: moto 青柚
 
-**moto Z 2018 (`payton`):**
+**moto Z 2018 (`nash`):**
 
 `XT1789-05`: moto Z 2018
 
@@ -166,13 +166,17 @@
 
 `XT2343-3`: moto g54
 
-**moto g34 (`fogos`):**
+**moto g34 / moto g34s (`fogos`):**
 
-`XT2363-4`: moto g34
+`XT2363-4`: moto g34 / moto g34s
 
 **moto X50 Ultra (`ctwo`):**
 
 `XT2401-2`: moto X50 Ultra
+
+**moto S50 (`vienna`):**
+
+`XT2409-5`: moto S50
 
 **moto S50 Neo (`malmo`):**
 
@@ -185,3 +189,11 @@
 **moto razr 50 Ultra (`arcfox`):**
 
 `XT2451-4`: moto razr 50 Ultra
+
+**moto g55 (`taipei`):**
+
+`XT2435-3`: moto g55
+
+**moto g75 (`paros`):**
+
+`XT2437-4`: moto g75

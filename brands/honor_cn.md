@@ -6,7 +6,7 @@
 
 ## 荣耀 Magic 系列
 
-**荣耀 Magic:**
+**荣耀 Magic (`Natasha`):**
 
 `NTS-AL00`: 荣耀 Magic 全网通版
 
@@ -98,9 +98,35 @@
 
 `BVL-AN20`: 荣耀 Magic6 RSR 保时捷设计
 
-**荣耀 Magic V Flip:**
+**荣耀 Magic V Flip (`Lyra`):**
 
 `LRA-AN00`: 荣耀 Magic V Flip
+
+**荣耀 Magic V3 (`FalconP`):**
+
+`FCP-AN10`: 荣耀 Magic V3
+
+`FCP-AN20`: 荣耀 Magic V3 双卫星版
+
+**荣耀 Magic Vs3 (`Falcon`):**
+
+`FLC-AN00`: 荣耀 Magic Vs3
+
+**荣耀 Magic7:**
+
+`PTP-AN00`: 荣耀 Magic7
+
+`PTP-AN60`: 荣耀 Magic7 (16GB+1TB)
+
+**荣耀 Magic7 Pro:**
+
+`PTP-AN10`: 荣耀 Magic7 Pro
+
+`PTP-AN70`: 荣耀 Magic7 Pro (16GB+1TB)
+
+**荣耀 Magic7 RSR 保时捷设计:**
+
+`PTP-AN20`: 荣耀 Magic7 RSR 保时捷设计
 
 ## 荣耀数字系列 (HONOR 系列 / N 系列)
 
@@ -300,7 +326,7 @@
 
 `GIA-AN00`: 荣耀 60 SE 5G
 
-**荣耀 70:**
+**荣耀 70 (`Fennie`):**
 
 `FNE-AN00`: 荣耀 70
 
@@ -316,11 +342,11 @@
 
 `ANN-AN00`: 荣耀 80
 
-**荣耀 80 Pro:**
+**荣耀 80 Pro (`AnnaP`):**
 
 `ANP-AN00`: 荣耀 80 Pro
 
-**荣耀 80 Pro 直屏版:**
+**荣耀 80 Pro 直屏版 (`AnnaB`):**
 
 `ANB-AN00`: 荣耀 80 Pro 直屏版
 
@@ -328,15 +354,15 @@
 
 `GIA-AN80`: 荣耀 80 SE
 
-**荣耀 80 GT:**
+**荣耀 80 GT (`AnnaGT`):**
 
 `AGT-AN00`: 荣耀 80 GT
 
-**荣耀 90:**
+**荣耀 90 (`Rhea`):**
 
 `REA-AN00`: 荣耀 90
 
-**荣耀 90 Pro:**
+**荣耀 90 Pro (`RheaP`):**
 
 `REP-AN00`: 荣耀 90 Pro
 
@@ -344,21 +370,33 @@
 
 `MAG-AN00`: 荣耀 90 GT
 
-**荣耀 100:**
+**荣耀 100 (`Mia`):**
 
 `MAA-AN00`: 荣耀 100
 
-**荣耀 100 Pro:**
+**荣耀 100 Pro (`MiaP`):**
 
 `MAA-AN10`: 荣耀 100 Pro
 
-**荣耀 200:**
+**荣耀 200 (`Ellie`):**
 
 `ELI-AN00`: 荣耀 200
 
-**荣耀 200 Pro:**
+**荣耀 200 Pro (`EllieP`):**
 
 `ELP-AN00`: 荣耀 200 Pro
+
+**荣耀 300:**
+
+`AMM-AN00`: 荣耀 300
+
+**荣耀 300 Pro:**
+
+`AMP-AN00`: 荣耀 300 Pro
+
+**荣耀 300 Ultra:**
+
+`AMP-AN10`: 荣耀 300 Ultra
 
 ## 荣耀 V 系列 (Vera 系列 / View 系列)
 
@@ -415,6 +453,12 @@
 **荣耀 V Purse (`Victoria`):**
 
 `VCA-AN00`: 荣耀 V Purse
+
+## 荣耀 GT 系列
+
+**荣耀 GT:**
+
+`AMG-AN00`: 荣耀 GT
 
 ## 荣耀 X 系列
 
@@ -534,31 +578,45 @@
 
 **荣耀 X40 (`Rambo`):**
 
-`RMO-AN00`: 荣耀 X40 5G
+`RMO-AN00`: 荣耀 X40
 
 **荣耀 X40i (`Dior`):**
 
-`DIO-AN00`: 荣耀 X40i 5G
+`DIO-AN00`: 荣耀 X40i
 
 **荣耀 X40 GT / 荣耀 X40 GT 竞速版 (`AndyGT`):**
 
-`ADT-AN00`: 荣耀 X40 GT 5G / 荣耀 X40 GT 竞速版 5G
+`ADT-AN00`: 荣耀 X40 GT / 荣耀 X40 GT 竞速版
 
 **荣耀 X50 (`Ali`):**
 
-`ALI-AN00`: 荣耀 X50 5G
+`ALI-AN00`: 荣耀 X50
 
 **荣耀 X50 Pro / 荣耀 X50 GT (`AliP`):**
 
-`ALP-AN00`: 荣耀 X50 Pro 5G / 荣耀 X50 GT 5G
+`ALP-AN00`: 荣耀 X50 Pro / 荣耀 X50 GT
 
 **荣耀 X50i (`Cartier`):**
 
-`CRT-AN00`: 荣耀 X50i 5G
+`CRT-AN00`: 荣耀 X50i
 
 **荣耀 X50i+ (`Lily`):**
 
-`LLY-AN00`: 荣耀 X50i+ 5G
+`LLY-AN00`: 荣耀 X50i+
+
+**荣耀 X60 (`Bruce`):**
+
+`BRC-AN00`: 荣耀 X60
+
+**荣耀 X60 Pro (`BruceP`):**
+
+`BRP-AN00`: 荣耀 X60 Pro
+
+`BRP-AN80`: 荣耀 X60 Pro 卫星版
+
+**荣耀 X60i:**
+
+`LYN-AN00`: 荣耀 X60i
 
 ## 荣耀 Play 系列
 
@@ -655,6 +713,18 @@
 **荣耀 Play8T Pro (`Lily`):**
 
 `LLY-AN00`: 荣耀 Play8T Pro 5G
+
+**荣耀 Play9T (`Alita`):**
+
+`ALT-AN00`: 荣耀 Play9T 5G
+
+**荣耀 Play9T Pro:**
+
+`LYN-AN00`: 荣耀 Play9T Pro 5G
+
+**荣耀 Play9C (`Judy`):**
+
+`JDY-AN00`: 荣耀 Play9C 5G
 
 ## 荣耀 Note 系列
 
@@ -846,7 +916,7 @@
 
 `RKY-AN00`: 荣耀畅玩 40 Plus 5G
 
-**荣耀畅玩 50 / 荣耀畅玩 50m:**
+**荣耀畅玩 50 / 荣耀畅玩 50m (`Judy`):**
 
 `JDY-AN00`: 荣耀畅玩 50 5G / 荣耀畅玩 50m 5G
 
@@ -854,7 +924,7 @@
 
 `CLK-AN00`: 荣耀畅玩 50 Plus 5G
 
-**荣耀畅玩 60 Plus:**
+**荣耀畅玩 60 Plus (`Alita`):**
 
 `ALT-AN00`: 荣耀畅玩 60 Plus 5G
 
@@ -874,19 +944,19 @@
 
 `JDN-W09`: 荣耀平板 2 Wi-Fi 版
 
-`JDN-AL00`: 荣耀平板 2 全网通版
+`JDN-AL00`: 荣耀平板 2 LTE 版
 
 **荣耀平板 5 (`Agassi2`):**
 
 `AGS2-W09HN`: 荣耀平板 5 10.1 英寸 Wi-Fi 版
 
-`AGS2-AL00HN`: 荣耀平板 5 10.1 英寸 全网通版
+`AGS2-AL00HN`: 荣耀平板 5 10.1 英寸 LTE 版
 
 **荣耀平板 5 (`Jordan2`):**
 
 `JDN2-W09HN`: 荣耀平板 5 8 英寸 Wi-Fi 版
 
-`JDN2-AL00HN` `JDN-AL50HN`: 荣耀平板 5 8 英寸 全网通版
+`JDN2-AL00HN` `JDN-AL50HN`: 荣耀平板 5 8 英寸 LTE 版
 
 **荣耀平板 V6 (`Karajan`):**
 
@@ -902,13 +972,13 @@
 
 `AGS3-W09HN`: 荣耀平板 6 10.1 英寸 Wi-Fi 版
 
-`AGS3-AL09HN`: 荣耀平板 6 10.1 英寸 全网通版
+`AGS3-AL09HN`: 荣耀平板 6 10.1 英寸 LTE 版
 
 **荣耀平板 X6 (`AgassiR`):**
 
 `AGR-W09HN`: 荣耀平板 X6 9.7 英寸 Wi-Fi 版
 
-`AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 全网通版
+`AGR-AL09HN`: 荣耀平板 X6 9.7 英寸 LTE 版
 
 **荣耀平板 V7 (`Karajan2`):**
 
@@ -926,19 +996,25 @@
 
 `AGM3-W09HN`: 荣耀平板 7 10.1 英寸 Wi-Fi 版
 
-`AGM3-AL09HN`: 荣耀平板 7 10.1 英寸 全网通版
+`AGM3-AL09HN`: 荣耀平板 7 10.1 英寸 LTE 版
 
 **荣耀平板 X7 (`Kobe2`):**
 
 `KOB2-W09HN`: 荣耀平板 X7 8 英寸 Wi-Fi 版
 
-`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 全网通版
+`KOB2-AL00HN`: 荣耀平板 X7 8 英寸 LTE 版
 
 **荣耀平板 Z3 (`AgassiRM`):**
 
 `AGM-W09HN`: 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 
-`AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 全网通版
+`AGM-AL09HN`: 荣耀平板 Z3 9.7 英寸 LTE 版
+
+**荣耀平板 Z5 (`Agassi3M`):**
+
+`AGM3-W09HN`: 荣耀平板 Z5 10.1 英寸 Wi-Fi 版
+
+`AGM3-AL09HN`: 荣耀平板 Z5 10.1 英寸 LTE 版
 
 **荣耀平板 X8 (`Agassi3M`):**
 
@@ -947,6 +1023,10 @@
 **荣耀平板 X8 Pro (`Eileen`):**
 
 `ELN-W09`: 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
+
+**荣耀平板 Z6 (`Eileen`):**
+
+`ELN-W09`: 荣耀平板 Z6 11.5 英寸 Wi-Fi 版
 
 **荣耀平板 8 (`Hendry`):**
 
@@ -976,9 +1056,35 @@
 
 `ROD-W09`: 荣耀平板 9 Pro 12.1 英寸 Wi-Fi 版
 
+`ROD-W19`: 荣耀平板 9 Pro 柔光版 12.1 英寸 Wi-Fi 版
+
 **荣耀平板 Z7 (`Hendry2`):**
 
 `HEY2-AN00`: 荣耀平板 Z7 12.1 英寸 5G 版
+
+**荣耀平板 MagicPad 2 (`Rolland2`):**
+
+`ROD2-W09`: 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
+
+**荣耀平板 GT Pro (`Rolland2`):**
+
+`ROD2-W69`: 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
+
+**荣耀平板 X9:**
+
+`NDL-W09`: 荣耀平板 X9 11 英寸 Wi-Fi 版
+
+`NDL-AL00`: 荣耀平板 X9 11 英寸 LTE 版
+
+**荣耀平板 V9:**
+
+`ROL-W00`: 荣耀平板 V9 11.5 英寸 Wi-Fi 版
+
+`ROL-W10`: 荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版
+
+**荣耀平板 X9 Pro (`Eileen2`):**
+
+`ELN2-W09`: 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
 
 **荣耀 Waterplay (`Haydn`):**
 
@@ -990,7 +1096,7 @@
 
 `HDL-W09`: 荣耀 Waterplay 8 英寸 Wi-Fi 版
 
-`HDL-AL09`: 荣耀 Waterplay 8 英寸 全网通版
+`HDL-AL09`: 荣耀 Waterplay 8 英寸 LTE 版
 
 **荣耀 X1:**
 
@@ -1266,6 +1372,10 @@
 
 `DRA-72`: 荣耀 MagicBook Pro 16 Ultra 7 (32GB 内存)
 
+**荣耀 MagicBook Pro 14:**
+
+`FMB-P`: 荣耀 MagicBook Pro 14
+
 **荣耀 MagicBook V 14:**
 
 `HGE-W56`: 荣耀 MagicBook V 14 i5
@@ -1277,6 +1387,16 @@
 `HGF-W56`: 荣耀 MagicBook V 14 2022 i5
 
 `HGF-W76`: 荣耀 MagicBook V 14 2022 i7
+
+**荣耀 MagicBook Art 14:**
+
+`MRA-561`: 荣耀 MagicBook Art 14 Ultra 5 (16GB+1TB)
+
+`MRA-521`: 荣耀 MagicBook Art 14 Ultra 5 (32GB+1TB)
+
+`MRA-721`: 荣耀 MagicBook Art 14 Ultra 7 (32GB+1TB)
+
+`MRO-521`: 荣耀 MagicBook Art 14 骁龙 X Elite (32GB+1TB)
 
 **荣耀 MagicBook X 14 (`NobelBR`):**
 
@@ -1316,11 +1436,19 @@
 
 `FRI-H56`: 荣耀笔记本 X14 2024 R5 (16GB+512GB)
 
+**荣耀笔记本 X14 2025:**
+
+`FRG-X`: 荣耀笔记本 X14 2025
+
 **荣耀笔记本 X14 Plus 2024:**
 
 `FMI-76`: 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 
 `FMI-721`: 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
+
+**荣耀笔记本 X14 Plus 2025:**
+
+`FRB-X`: 荣耀笔记本 X14 Plus 2025
 
 **荣耀 MagicBook X 15 (`BohrBR`):**
 
@@ -1360,11 +1488,27 @@
 
 `BRN-H56`: 荣耀笔记本 X16 2024 R5 (16GB+512GB)
 
+**荣耀笔记本 X16 2025:**
+
+`BRG-585`: 荣耀笔记本 X16 2025 i5 (8GB+512GB)
+
+`BRG-565`: 荣耀笔记本 X16 2025 i5 (16GB+512GB)
+
+`BRG-561`: 荣耀笔记本 X16 2025 i5 (16GB+1TB)
+
+`BRG-765`: 荣耀笔记本 X16 2025 i7 (16GB+512GB)
+
+`BRG-761`: 荣耀笔记本 X16 2025 i7 (16GB+1TB)
+
 **荣耀笔记本 X16 Plus 2024:**
 
 `BRI-76`: 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 
 `BRI-721`: 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
+
+**荣耀笔记本 X16 Plus 2025:**
+
+`BRB-X`: 荣耀笔记本 X16 Plus 2025
 
 **荣耀 MagicBook Z3 14 2023:**
 
@@ -1446,6 +1590,8 @@
 
 `HN43DNTH`: 荣耀智慧屏 Z3 43 英寸
 
+`HN55BYRA`: 荣耀智慧屏 Z3 55 英寸
+
 ## 荣耀穿戴设备
 
 **荣耀手表魔法系列:**
@@ -1493,6 +1639,10 @@
 **荣耀手表 GS 4:**
 
 `MUS-B19`: 荣耀手表 GS 4
+
+**荣耀手表 5:**
+
+`STL-L19`: 荣耀手表 5
 
 **荣耀手环 3:**
 

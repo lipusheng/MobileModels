@@ -244,6 +244,22 @@
 
 `SM-S9280`: Galaxy S24 Ultra
 
+**Galaxy S25 (`pa1q`):**
+
+`SM-S9310`: Galaxy S25
+
+**Galaxy S25+ (`pa2q`):**
+
+`SM-S9360`: Galaxy S25+
+
+**Galaxy S25 Edge:**
+
+`SM-S9370`: Galaxy S25 Edge
+
+**Galaxy S25 Ultra (`pa3q`):**
+
+`SM-S9380`: Galaxy S25 Ultra
+
 ## Galaxy Note 系列
 
 **Galaxy Note:**
@@ -376,6 +392,10 @@
 
 `SM-F9460`: Galaxy Z Fold5
 
+**Galaxy Z Fold6 (`q6q`):**
+
+`SM-F9560`: Galaxy Z Fold6
+
 **Galaxy Z Flip (`bloomq`):**
 
 `SM-F7000`: Galaxy Z Flip
@@ -395,6 +415,10 @@
 **Galaxy Z Flip5 (`b5q`):**
 
 `SM-F7310`: Galaxy Z Flip5
+
+**Galaxy Z Flip6 (`b6q`):**
+
+`SM-F7410`: Galaxy Z Flip6
 
 ## Galaxy A 系列
 
@@ -535,6 +559,10 @@
 **Galaxy A55 5G (`a55x`):**
 
 `SM-A5560`: Galaxy A55 5G
+
+**Galaxy A56 5G (`a56x`):**
+
+`SM-A5660`: Galaxy A56 5G
 
 ## Galaxy F 系列
 
@@ -734,6 +762,14 @@
 
 `SM-W7024`: 三星 W24 Flip
 
+**三星 W25 (`q6aq`):**
+
+`SM-W9025`: 三星 W25
+
+**三星 W25 Flip (`b6q`):**
+
+`SM-W7025`: 三星 W25 Flip
+
 ## 三星其他手机系列
 
 **Galaxy Folder (`eliteltechn`):**
@@ -912,11 +948,23 @@
 
 **Galaxy Tab S9 FE+ (`gts9fepwifi`):**
 
-`SM-X610`: Galaxy Tab S9 FE WLAN
+`SM-X610`: Galaxy Tab S9 FE+ WLAN
 
 **Galaxy Tab S9 FE+ (`gts9fep`):**
 
-`SM-X616C`: Galaxy Tab S9 FE 5G
+`SM-X616C`: Galaxy Tab S9 FE+ 5G
+
+**Galaxy Tab S10+ (`gts10pwifi`):**
+
+`SM-X820`: Galaxy Tab S10+ WLAN
+
+**Galaxy Tab S10 Ultra (`gts10uwifi`):**
+
+`SM-X920`: Galaxy Tab S10 Ultra WLAN
+
+**Galaxy Tab S10 Ultra (`gts10u`):**
+
+`SM-X926C`: Galaxy Tab S10 Ultra 5G
 
 ## Galaxy Tab A 系列
 
@@ -1119,3 +1167,19 @@
 **Galaxy Watch6 Classic (`wise6ul`):**
 
 `SM-R9650`: Galaxy Watch6 Classic LTE 47mm
+
+**Galaxy Watch7 (`fresh7bs`):**
+
+`SM-L300`: Galaxy Watch7 蓝牙版 40mm
+
+**Galaxy Watch7 (`fresh7bl`):**
+
+`SM-L310`: Galaxy Watch7 蓝牙版 44mm
+
+**Galaxy Watch7 (`fresh7ul`):**
+
+`SM-L3150`: Galaxy Watch7 LTE 44mm
+
+**Galaxy Watch Ultra (`projectx2ul`):**
+
+`SM-L7050`: Galaxy Watch Ultra LTE 47mm

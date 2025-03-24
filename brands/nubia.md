@@ -140,9 +140,19 @@
 
 `NX715J`: nubia Z50 SE
 
-**nubia Z60 Ultra:**
+**nubia Z60 Ultra / nubia Z60 Ultra 领先版:**
 
-`NX721J`: nubia Z60 Ultra
+`NX721J`: nubia Z60 Ultra / nubia Z60 Ultra 领先版
+
+**nubia Z60S Pro:**
+
+`NX725J`: nubia Z60S Pro
+
+**nubia Z70 Ultra:**
+
+`NX733J`: nubia Z70 Ultra
+
+`NX736J`: nubia Z70 Ultra 星空典藏版 (卫星通信)
 
 ## 努比亚其他系列
 
@@ -164,7 +174,13 @@
 
 **nubia Flip:**
 
-`NX724J`: nubia Flip
+`NX724J`: nubia Flip 5G / nubia Flip 5G S
+
+**nubia Flip 2:**
+
+`NX732J`: nubia Flip 2 国行版
+
+`A404ZT`: nubia Flip 2 SoftBank
 
 **nubia 小牛:**
 
@@ -204,6 +220,8 @@
 
 `NX301J`: nubia N5
 
+## 努比亚海外型号
+
 **nubia Neo:**
 
 `nubia 8150N`: nubia Neo 5G
@@ -212,17 +230,67 @@
 
 `Z2352N`: nubia Neo 2 5G
 
+**nubia Neo 3:**
+
+`Z2461`: nubia Neo 3
+
+**nubia Neo 3 GT:**
+
+`Z2465N`: nubia Neo 3 GT 5G
+
 **nubia Music:**
 
 `Z2353`: nubia Music
 
-**nubia Blade A72:**
+**nubia Music 2:**
 
-`Z6255CA`: nubia Blade A72
+`Z2460`: nubia Music 2
+
+**nubia Focus:**
+
+`Z2455`: nubia Focus
+
+**nubia Focus 2:**
+
+`Z2462N`: nubia Focus 2 5G
+
+**nubia Focus 2 Ultra:**
+
+`Z2463N`: nubia Focus 2 Ultra 5G
+
+**nubia A75:**
+
+`Z6255CA`: nubia A75
 
 **nubia V50 Vita:**
 
 `nubia 8550`: nubia V50 Vita
+
+**nubia V60:**
+
+`Z2356`: nubia V60
+
+**nubia V60 Design:**
+
+`Z2350`: nubia V60 Design
+
+**nubia V70:**
+
+`Z2459`: nubia V70
+
+**nubia V70 Design:**
+
+`Z2458`: nubia V70 Design
+
+**nubia V70 Max:**
+
+`Z2467`: nubia V70 Max
+
+**nubia S:**
+
+`A403ZT`: nubia S 5G SoftBank
+
+## 努比亚平板
 
 **nubia Pad 3D:**
 
@@ -232,7 +300,11 @@
 
 `NP02J`: nubia Pad 3D II
 
-## 红魔
+**nubia Pad SE:**
+
+`K99J`: nubia Pad SE
+
+## 红魔手机
 
 **红魔电竞游戏手机:**
 
@@ -306,6 +378,20 @@
 
 `NX769J`: 红魔 9S Pro / 红魔 9S Pro+
 
+**红魔 10 Pro / 红魔 10 Pro+:**
+
+`NX789J`: 红魔 10 Pro / 红魔 10 Pro+
+
+## 红魔平板
+
 **红魔电竞平板:**
 
 `NP01J`: 红魔电竞平板 5G
+
+**红魔电竞平板 Pro:**
+
+`NP03J`: 红魔电竞平板 Pro
+
+**红魔平板 · 3D 探索版:**
+
+`NP02J`: 红魔平板 · 3D 探索版 5G

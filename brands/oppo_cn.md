@@ -1,6 +1,6 @@
 # OPPO 手机型号汇总
 
-- 汇总范围: 2018 年起新型号命名方式的机型
+- 汇总范围: 2018 年起新型号命名方式的国行机型
 - codename: ⏹
 - 是否包含海外机型: [单独汇总 (英文)](/brands/oppo_global_en.md)
 
@@ -68,6 +68,16 @@
 
 `PHY120`: OPPO Find X7 Ultra 卫星通信版
 
+**OPPO Find X8 (`yala`):**
+
+`PKB110`: OPPO Find X8
+
+**OPPO Find X8 Pro (`konka`):**
+
+`PKC110`: OPPO Find X8 Pro
+
+`PKC130`: OPPO Find X8 Pro 卫星通信版
+
 ## Find N 系列
 
 **OPPO Find N (`peacock`):**
@@ -89,6 +99,12 @@
 **OPPO Find N3 Flip (`flamingo`):**
 
 `PHT110`: OPPO Find N3 Flip
+
+**OPPO Find N5:**
+
+`PKH110`: OPPO Find N5
+
+`PKH120`: OPPO Find N5 卫星通信版
 
 ## Reno 系列
 
@@ -248,13 +264,21 @@
 
 `PJJ110`: OPPO Reno11 Pro
 
-**OPPO Reno12:**
+**OPPO Reno12 (`omega`) (`omega-c1`):**
 
 `PJV110`: OPPO Reno12
 
-**OPPO Reno12 Pro:**
+**OPPO Reno12 Pro (`omega`) (`omega-c1`):**
 
 `PJW110`: OPPO Reno12 Pro
+
+**OPPO Reno13 (`milkyway`) (`milkyway-c2`):**
+
+`PKM110`: OPPO Reno13
+
+**OPPO Reno13 Pro (`milkyway`) (`milkyway-c1`):**
+
+`PKK110`: OPPO Reno13 Pro
 
 ## Ace 系列
 
@@ -496,9 +520,9 @@
 
 `PJG110`: OPPO A2 Pro
 
-**OPPO A3:**
+**OPPO A3 / OPPO A3i Plus:**
 
-`PKA110`: OPPO A3 5G (2024)
+`PKA110`: OPPO A3 5G (2024) / OPPO A3i Plus
 
 **OPPO A3 活力版:**
 
@@ -512,9 +536,25 @@
 
 `PKD130`: OPPO A3x
 
+**OPPO A3i:**
+
+`PKL110`: OPPO A3i
+
 **OPPO A3 Pro:**
 
 `PJY110`: OPPO A3 Pro
+
+**OPPO A5:**
+
+`PKQ110`: OPPO A5 5G (2025)
+
+**OPPO A5 活力版:**
+
+`PKV110`: OPPO A5 活力版
+
+**OPPO A5 Pro (`alpha`) (`alpha-h`):**
+
+`PKP110`: OPPO A5 Pro
 
 ## K 系列
 
@@ -582,6 +622,10 @@
 
 `PJR110`: OPPO K12
 
+**OPPO K12 Plus:**
+
+`PKS110`: OPPO K12 Plus
+
 **OPPO K12x (`avatar-m`):**
 
 `PJT110`: OPPO K12x
@@ -603,6 +647,14 @@
 **OPPO Pad Air2 (`bluey`):**
 
 `OPD2301`: OPPO Pad Air2
+
+**OPPO Pad 3:**
+
+`OPD2405`: OPPO Pad 3
+
+**OPPO Pad 3 Pro (`caihong`):**
+
+`OPD2401`: OPPO Pad 3 Pro
 
 ## Watch/Band 系列
 
@@ -667,3 +719,11 @@
 **OPPO Watch X (`star`):**
 
 `OWW231`: OPPO Watch X
+
+**OPPO Watch X2 (`xinghe`):**
+
+`OWW251`: OPPO Watch X2
+
+**OPPO Watch X2 Mini (`xingchen`):**
+
+`OWW242`: OPPO Watch X2 Mini

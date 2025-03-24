@@ -17,6 +17,18 @@
 
 `A142`: Nothing Phone (2a)
 
+**Nothing Phone (2a) Plus (`PacmanPro`):**
+
+`A142P`: Nothing Phone (2a) Plus
+
+**Nothing Phone (3a) (`Asteroids`):**
+
+`A059`: Nothing Phone (3a)
+
+**Nothing Phone (3a) Plus (`Asteroids`):**
+
+`A059P`: Nothing Phone (3a) Plus
+
 **CMF Phone 1 (`Tetris`):**
 
 `A015`: CMF Phone 1

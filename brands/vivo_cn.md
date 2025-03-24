@@ -1,6 +1,6 @@
 # vivo 手机型号汇总
 
-- 汇总范围: 2018 年起新型号命名方式的机型
+- 汇总范围: 2018 年起新型号命名方式的国行机型
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](/brands/vivo_global_en.md)
 
@@ -212,6 +212,26 @@
 
 `V2366HA`: vivo X100 Ultra 卫星通信版
 
+**vivo X200 (`PD2415`):**
+
+`V2415A`: vivo X200
+
+**vivo X200 Pro (`PD2405`):**
+
+`V2405A`: vivo X200 Pro
+
+`V2405DA`: vivo X200 Pro 卫星通信版
+
+**vivo X200 Pro mini (`PD2419`):**
+
+`V2419A`: vivo X200 Pro mini
+
+**vivo X200 Ultra (`PD2454`):**
+
+`V2454A`: vivo X200 Ultra
+
+`V2454DA`: vivo X200 Ultra 卫星通信版
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -339,6 +359,14 @@
 **vivo S19 Pro (`PD2362`):**
 
 `V2362A`: vivo S19 Pro
+
+**vivo S20 (`PD2429`):**
+
+`V2429A`: vivo S20
+
+**vivo S20 Pro (`PD2430`):**
+
+`V2430A`: vivo S20 Pro
 
 ## vivo Y 系列
 
@@ -473,6 +501,18 @@
 **vivo Y36t (`PD2327`):**
 
 `V2327A`: vivo Y36t
+
+**vivo Y36c / vivo Y37 (`PD2357`):**
+
+`V2357A`: vivo Y36c 5G / vivo Y37 5G
+
+**vivo Y37m (`PD2357`):**
+
+`V2357EA`: vivo Y37m 5G
+
+**vivo Y37 Pro (`PD2354`):**
+
+`V2354A`: vivo Y37 Pro 5G
 
 **vivo Y50 (`PD1965`):**
 
@@ -664,6 +704,10 @@
 
 `V2312BA`: vivo Y100i 长续航版 5G
 
+**vivo Y100+ / vivo Y200i / vivo Y200+ (`PD2354`):**
+
+`V2354A`: vivo Y100+ 5G / vivo Y200i 5G / vivo Y200+ 5G
+
 **vivo Y200 (`PD2343`):**
 
 `V2343A`: vivo Y200 5G
@@ -676,9 +720,29 @@
 
 `V2353DA`: vivo Y200t 5G
 
-**vivo Y200i (`PD2354`):**
+**vivo Y300 (`PD2435`):**
 
-`V2354A`: vivo Y200i 5G
+`V2435A`: vivo Y300 5G
+
+**vivo Y300 Pro (`PD2410`):**
+
+`V2410A`: vivo Y300 Pro 5G
+
+**vivo Y300 Pro+:**
+
+`V2456A`: vivo Y300 Pro+ 5G
+
+**vivo Y300i (`PD2444`):**
+
+`V2444A`: vivo Y300i 5G
+
+**vivo Y300t (`PD2445D`):**
+
+`V2445EA`: vivo Y300t 5G
+
+**vivo Y300 GT (`PD2452`):**
+
+`V2452GA`: vivo Y300 GT 5G
 
 ## vivo T 系列
 
@@ -866,6 +930,10 @@
 
 `V2329A`: iQOO 12 Pro
 
+**iQOO 13 (`PD2408`):**
+
+`V2408A`: iQOO 13
+
 ## iQOO Neo 系列
 
 **iQOO Neo (`PD1914`):**
@@ -946,6 +1014,18 @@
 
 `V2339FA`: iQOO Neo9S Pro
 
+**iQOO Neo9S Pro+ (`PD2403`):**
+
+`V2403A`: iQOO Neo9S Pro+
+
+**iQOO Neo10 (`PD2425`):**
+
+`V2425A`: iQOO Neo10
+
+**iQOO Neo10 Pro (`PD2426`):**
+
+`V2426A`: iQOO Neo10 Pro
+
 ## iQOO Z 系列
 
 **iQOO Z1 (`PD1986`):**
@@ -1004,9 +1084,29 @@
 
 `V2352A`: iQOO Z9 Turbo
 
+**iQOO Z9 Turbo 长续航版 (`PD2352G`):**
+
+`V2352GA`: iQOO Z9 Turbo 长续航版
+
+**iQOO Z9 Turbo+ (`PD2417`):**
+
+`V2417A`: iQOO Z9 Turbo+
+
 **iQOO Z9x (`PD2353`):**
 
 `V2353A`: iQOO Z9x
+
+**iQOO Z10 Turbo (`PD2452`):**
+
+`V2452A`: iQOO Z10 Turbo
+
+**iQOO Z10 Turbo Pro (`PD2453`):**
+
+`V2453A`: iQOO Z10 Turbo Pro
+
+**iQOO Z10x (`PD2445`):**
+
+`V2445A`: iQOO Z10x
 
 ## iQOO U 系列
 

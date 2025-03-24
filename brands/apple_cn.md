@@ -1,6 +1,6 @@
 # Apple 国行设备型号汇总
 
-- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch
+- 汇总范围: 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision
 - codename: ✅
 - 是否包含海外机型: [见完整汇总](/brands/apple_all.md)
 
@@ -126,9 +126,11 @@
 
 `A2099`: iPhone XS (中国移动)
 
-**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
+**[`D331pAP`] iPhone XS Max (`iPhone11,6`):**
 
 `A2104`: iPhone XS Max
+
+**[`D331AP`] iPhone XS Max (`iPhone11,4`):**
 
 `A2103`: iPhone XS Max (中国移动)
 
@@ -230,6 +232,26 @@
 
 `A3108`: iPhone 15 Pro Max
 
+**[`D47AP`] iPhone 16 (`iPhone17,3`):**
+
+`A3288`: iPhone 16
+
+**[`D48AP`] iPhone 16 Plus (`iPhone17,4`):**
+
+`A3291`: iPhone 16 Plus
+
+**[`D93AP`] iPhone 16 Pro (`iPhone17,1`):**
+
+`A3294`: iPhone 16 Pro
+
+**[`D94AP`] iPhone 16 Pro Max (`iPhone17,2`):**
+
+`A3297`: iPhone 16 Pro Max
+
+**[`V59AP`] iPhone 16e (`iPhone17,5`):**
+
+`A3410`: iPhone 16e
+
 ## iPad
 
 **[`K48AP`] iPad (`iPad1,1`):**
@@ -320,6 +342,14 @@
 
 `A3162`: iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM)
 
+**[`J481AP`] iPad (A16) (`iPad15,7`):**
+
+`A3354`: iPad (A16) (无线局域网)
+
+**[`J482AP`] iPad (A16) (`iPad15,8`):**
+
+`A3356`: iPad (A16) (无线局域网 + 蜂窝网络)
+
 ## iPad Air
 
 **[`J71AP`] iPad Air (`iPad4,1`):**
@@ -381,6 +411,22 @@
 **[`J538AP`] iPad Air (13 英寸, M2) (`iPad14,11`):**
 
 `A2900`: iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)
+
+**[`J607AP`] iPad Air (11 英寸, M3) (`iPad15,3`):**
+
+`A3266`: iPad Air (11 英寸, M3) (无线局域网)
+
+**[`J608AP`] iPad Air (11 英寸, M3) (`iPad15,4`):**
+
+`A3270`: iPad Air (11 英寸, M3) (无线局域网 + 蜂窝网络)
+
+**[`J637AP`] iPad Air (13 英寸, M3) (`iPad15,5`):**
+
+`A3268`: iPad Air (13 英寸, M3) (无线局域网)
+
+**[`J638AP`] iPad Air (13 英寸, M3) (`iPad15,6`):**
+
+`A3271`: iPad Air (13 英寸, M3) (无线局域网 + 蜂窝网络)
 
 ## iPad Pro
 
@@ -576,7 +622,7 @@
 
 **[`J211AP`] iPad mini (第 5 代) (`iPad11,2`):**
 
-`A2125`: iPad mini (第 5 代) (无线局域网 + 蜂窝网络) 
+`A2125`: iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
 
 **[`J310AP`] iPad mini (第 6 代) (`iPad14,1`):**
 
@@ -584,7 +630,15 @@
 
 **[`J311AP`] iPad mini (第 6 代) (`iPad14,2`):**
 
-`A2569`: iPad mini (第 6 代) (无线局域网 + 蜂窝网络) 
+`A2569`: iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
+
+**[`J410AP`] iPad mini (A17 Pro) (`iPad16,1`):**
+
+`A2993`: iPad mini (A17 Pro) (无线局域网)
+
+**[`J411AP`] iPad mini (A17 Pro) (`iPad16,2`):**
+
+`A2996`: iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
 
 ## Apple Watch
 
@@ -767,6 +821,28 @@
 **[`N210AP`] Apple Watch Ultra 2 (`Watch7,5`):**
 
 `A2987`: Apple Watch Ultra 2
+
+**[`N217sAP`] Apple Watch Series 10 (`Watch7,8`):**
+
+`A2998`: Apple Watch Series 10 (GPS) (42 毫米表壳)
+
+**[`N217bAP`] Apple Watch Series 10 (`Watch7,9`):**
+
+`A3000`: Apple Watch Series 10 (GPS) (46 毫米表壳)
+
+**[`N218sAP`] Apple Watch Series 10 (`Watch7,10`):**
+
+`A3002`: Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳)
+
+**[`N218bAP`] Apple Watch Series 10 (`Watch7,11`):**
+
+`A3206`: Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳)
+
+## Apple Vision
+
+**[`N301AP`] Apple Vision Pro (`RealityDevice14,1`):**
+
+`A2117`: Apple Vision Pro
 
 ## iPod touch
 
