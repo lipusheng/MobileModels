@@ -24,13 +24,13 @@ jobs:
         id: sync
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
-          target_sync_branch: main
+          target_sync_branch: master
           # 你的 Token (GitHub 会自动生成，不用管)
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}
           # 原作者的仓库地址 (格式：用户名/仓库名)
           upstream_sync_repo: KHwang9883/MobileModels
           # 原作者的分支名
-          upstream_sync_branch: main
+          upstream_sync_branch: master
           # 设置为 false 表示真正执行同步
           test_mode: false
 
