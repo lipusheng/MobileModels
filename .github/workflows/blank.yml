@@ -1,0 +1,41 @@
+# This is a basic workflow to help you get started with Actions
+name: 自动同步原作者更新
+
+permissions: write-all
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync_latest_from_upstream:
+    name: Sync latest commits from upstream repo
+    runs-on: ubuntu-latest
+    if: ${{ github.event.repository.fork }}
+
+    steps:
+      # 1. 检出你的代码
+      - name: Checkout target repo
+        uses: actions/checkout@v3
+
+      # 2. 使用专门的同步插件进行更新
+      - name: Sync upstream changes
+        id: sync
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          target_sync_branch: main
+          # 你的 Token (GitHub 会自动生成，不用管)
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          # 原作者的仓库地址 (格式：用户名/仓库名)
+          upstream_sync_repo: KHwang9883/MobileModels
+          # 原作者的分支名
+          upstream_sync_branch: main
+          # 设置为 false 表示真正执行同步
+          test_mode: false
+
+      # 3. (可选) 如果有更新，打印日志
+      - name: New commits found
+        if: steps.sync.outputs.has_new_commits == 'true'
+        run: echo "发现新代码，已自动同步成功！"
+
