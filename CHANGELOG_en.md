@@ -1,4 +1,6 @@
 # CHANGELOG
+### 2026-03-01
+- `xiaomi_en` Add REDMI A7 Pro.
 ### 2026-02-27
 - `huawei_global_en` Add HUAWEI Mate 80 Pro.
 - `samsung_global_en` Add Galaxy S26 series, A37, A57.

@@ -755,7 +755,7 @@
 
 **HUAWEI MatePad 11.5 S (`Salinger`):**
 
-`SLG-W09`: HUAWEI MatePad 11.5 S 2025 Wi-Fi
+`SLG-W09`: HUAWEI MatePad 11.5 S 2026 Wi-Fi
 
 **HUAWEI MatePad Air (`Debussy2`):**
 

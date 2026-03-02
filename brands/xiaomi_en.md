@@ -493,9 +493,9 @@
 
 `2512BPNDAI`: Xiaomi 17 Ultra India
 
-**[`P1S`] Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica (`nezha`):**
+**[`P1S`] Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica (`nezha`):**
 
-`25128PNA1G`: Leitzphone powered by Xiaomi (Global)
+`25128PNA1G`: Leica Leitzphone powered by Xiaomi (Global)
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica (China)
 
@@ -2084,6 +2084,12 @@
 `25028RN03I`: REDMI A5 India
 
 `25028RN03L`: REDMI A5 Latin America
+
+**[`P25A`] REDMI A7 Pro (`arctic`):**
+
+`25128RN17A` `25128RN17Y`: REDMI A7 Pro Global
+
+`25128RN17L`: REDMI A7 Pro Latin America
 
 ## POCO Phones
 

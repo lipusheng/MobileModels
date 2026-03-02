@@ -496,11 +496,11 @@
 
 `2512BPNDAI`: Xiaomi 17 Ultra 印度版
 
-**[`P1S`] Xiaomi 17 Ultra by Leica / Leitzphone powered by Xiaomi (`nezha`):**
+**[`P1S`] Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi (`nezha`):**
 
 `25128PNA1C`: Xiaomi 17 Ultra by Leica 国行版
 
-`25128PNA1G`: Leitzphone powered by Xiaomi 国际版
+`25128PNA1G`: Leica Leitzphone powered by Xiaomi 国际版
 
 ## 小米 Note 系列
 
@@ -2231,6 +2231,12 @@
 `25028RN03I`: REDMI A5 印度版
 
 `25028RN03L`: REDMI A5 拉美版
+
+**[`P25A`] REDMI A7 Pro (`arctic`):**
+
+`25128RN17A` `25128RN17Y`: REDMI A7 Pro 国际版
+
+`25128RN17L`: REDMI A7 Pro 拉美版
 
 ## REDMI 平板
 
