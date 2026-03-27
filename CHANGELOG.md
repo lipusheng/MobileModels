@@ -1,4 +1,7 @@
 # 更新日志
+### 2026-03-26
+- `huawei_cn` 新增 华为智慧屏 S7 Pro。
+- `vivo_cn` 新增 vivo Y500s、Y60/Y60m 5G。
 ### 2026-03-24
 - `nubia` 新增部分海外型号。
 - `oppo_cn` 新增 OPPO Find X9 Ultra、Find X9s Pro、A6k、A6x。
