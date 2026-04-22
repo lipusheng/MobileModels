@@ -34,8 +34,8 @@
 | [letv](brands/letv.md) | 乐视 (Letv) | 全部手机机型 | ❌ | ❌ | 不包含电视产品 |
 | [meizu](brands/meizu.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | -- |
 | [meizu_en](brands/meizu_en.md) | 魅族 (MEIZU) | 全部机型 | ✅ | ✅ | 英文版 |
-| [mitv_cn](brands/mitv_cn.md) | 小米 (Xiaomi) | 全部国行小米/Redmi 电视、机顶盒 | ❌ | ❌ | -- |
-| [mitv_global_en](brands/mitv_global_en.md) | 小米 (Xiaomi) | 全部小米/Redmi 电视、机顶盒、智能电视棒，仅包含海外型号 | ❌ | ✅ | 英文版 |
+| [mitv_cn](brands/mitv_cn.md) | 小米 (Xiaomi) | 全部国行小米/REDMI 电视、智能显示器、机顶盒 | ❌ | ❌ | -- |
+| [mitv_global_en](brands/mitv_global_en.md) | 小米 (Xiaomi) | 全部小米/REDMI 电视、机顶盒、智能电视棒，仅包含海外型号 | ❌ | ✅ | 英文版 |
 | [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
 | [nothing](brands/nothing.md) | Nothing | 全部机型 | ✅ | ✅ | 英文版 |
@@ -56,7 +56,7 @@
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/REDMI/POCO 手机 & 平板等 | ✅ | ✅ | -- |
 | [xiaomi_cn](brands/xiaomi_cn.md) | 小米 (Xiaomi) | 小米/REDMI 手机 & 平板等 | ✅ | ✅ | 英文版 |
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/REDMI/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
-| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
+| [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/REDMI 手表、手环、TWS 等穿戴设备 | ⏹ | ✅ | TWS 不包含外包型号；暂不含儿童手表型号 |
 | [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte_cn](brands/zte_cn.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
@@ -107,19 +107,19 @@
 
 - [电信设备终端网](http://zd.taf.org.cn)
 - [产品认证证书查询](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
-- [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/resultQuery)
+- [工业和信息化部政务服务平台](https://ythzxfw.miit.gov.cn/jgcx/index.html)
 - [产品库-中国电信天翼终端信息平台](http://surfing.tydevice.com/)
 - [Google Play 支持的设备](http://storage.googleapis.com/play_public/supported_devices.html)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
-- [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
+- [Bluetooth Qualification Listings](https://qualification.bluetooth.com/Listings/Search)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
+- [HONOR Open Source Release Center](https://www.honor.com/global/opensource/)
 - [ReaMEIZU](https://reameizu.com/)
 - [The Apple Wiki](https://theapplewiki.com/)
 - [ipsw.me](https://ipsw.me)
 - [XDA Developers](https://www.xda-developers.com)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
-- [XSMS IMEI 数据库](http://xsms.com.ua/phone/imei/all/1)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
 - [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 

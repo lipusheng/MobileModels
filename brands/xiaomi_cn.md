@@ -1186,7 +1186,11 @@
 
 `25102RK69C`: REDMI K90 Pro Max 冠军版
 
-## 其他红米手机
+**[`P12`] REDMI K90 Max (`prague`):**
+
+`2604FRK1EC`: REDMI K90 Max
+
+## 其他 REDMI 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
 
@@ -1201,6 +1205,10 @@
 `M1803E6T`: 红米 S2 移动 4G+ 版
 
 `M1803E6C`: 红米 S2 联通电信定制版
+
+**[`P25`] REDMI R70 5G / REDMI R70m 5G (`somalia`):**
+
+`26020RN1AC`: REDMI R70 5G / REDMI R70m 5G
 
 ## REDMI 平板
 
@@ -1236,9 +1244,21 @@
 
 `2509BRP2DC`: REDMI Pad 2 Pro 5G
 
+**[`P85`] REDMI Pad 2 SE (`guitar`):**
+
+`2603ARP14C`: REDMI Pad 2 SE
+
+**[`P85X`] REDMI Pad 2 SE 4G (`erhu`):**
+
+`2604ERP4DC`: REDMI Pad 2 SE 4G
+
 **[`O88`] REDMI K Pad (`turner`):**
 
 `25079RPDCC`: REDMI K Pad
+
+**[`P88`] REDMI K Pad 2 (`yili`):**
+
+`26048RP6AC`: REDMI K Pad 2
 
 ## 其他系列
 
@@ -1249,6 +1269,14 @@
 **[`K91`] CyberDog 仿生四足机器人:**
 
 `21051191C`: CyberDog 仿生四足机器人
+
+**小米澎湃智能座舱:**
+
+`2405AVPB7C`: 小米澎湃智能座舱 (第一代 SU7/SU7 Ultra)
+
+**小米澎湃智能座舱 (`suiren`):**
+
+`25033VP3FC`: 小米澎湃智能座舱 (YU7/新一代 SU7)
 
 **[`P802`] Xiaomi YU7 后排移动控制屏 (`konghou`):**
 
