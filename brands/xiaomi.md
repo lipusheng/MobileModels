@@ -1866,9 +1866,9 @@
 
 `24117RN76O`: Redmi Note 14 国际版 (NFC)
 
-**[`O17`] Redmi Note 14 5G / Redmi Note 14 SE 5G (`beryl`):**
+**[`O17`] Redmi Note 14 5G / Redmi Note 14 SE 5G / REDMI Note 15R Pro (`beryl`):**
 
-`24094RAD4C`: Redmi Note 14 5G 国行版
+`24094RAD4C`: Redmi Note 14 5G 国行版 / REDMI Note 15R Pro 国行版
 
 `24094RAD4I`: Redmi Note 14 5G 印度版 / Redmi Note 14 SE 5G 印度版
 
@@ -2711,6 +2711,10 @@
 **[`C3F2`] POCO C75 5G (`warm`):**
 
 `24116PCC1I`: POCO C75 5G 印度版
+
+**[`P25A`] POCO C81 (`arctic`):**
+
+`25128PC17I`: POCO C81 印度版
 
 **[`P15A`] POCO C85 (`dew`):**
 
