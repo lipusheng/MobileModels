@@ -1098,6 +1098,10 @@
 
 `LOG-AN10`: 荣耀畅玩 80 Pro 5G
 
+**荣耀畅玩 90 Plus (`Mark`):**
+
+`MRK-AN00`: 荣耀畅玩 90 Plus
+
 ## 荣耀平板 数字系列
 
 **荣耀平板:**
@@ -1240,6 +1244,10 @@
 
 `YLE-W09`: 荣耀 MagicPad 3 Pro 12.3 英寸 Wi-Fi 版
 
+**荣耀 MagicPad 4 (`Mulan`):**
+
+`MLA-W09`: 荣耀 MagicPad 4 12.1 英寸 Wi-Fi 版
+
 ## 荣耀平板 GT 系列
 
 **荣耀平板 GT (`Rowling`):**
@@ -1296,7 +1304,7 @@
 
 `ELE2-W19`: 荣耀平板 X10 Pro 柔光版 11.5 英寸 Wi-Fi 版
 
-**荣耀平板 X10 Pro Max:**
+**荣耀平板 X10 Pro Max (`Yaoming`):**
 
 `YAG-W09`: 荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版
 
@@ -1337,6 +1345,10 @@
 **荣耀平板 Z7 (`Hendry2`):**
 
 `HEY2-AN00`: 荣耀平板 Z7 12.1 英寸 5G 版
+
+**荣耀平板 Z7 第二代 (`Hendry4`):**
+
+`HEY4-AN00`: 荣耀平板 Z7 第二代 12.1 英寸 5G 版
 
 ## 荣耀平板 其他系列
 
@@ -1847,6 +1859,12 @@
 **荣耀 MagicBook Z3 14 2023 (`FermiF`):**
 
 `FRI-F56Z`: 荣耀 MagicBook Z3 14 2023 i5
+
+**荣耀 MagicBook Z3 16:**
+
+`DNH-565` `DNH-565H`: 荣耀 MagicBook Z3 16 (16GB+512GB)
+
+`DNH-561` `DNH-561H`: 荣耀 MagicBook Z3 16 (16GB+1TB)
 
 ## 荣耀游戏本系列
 

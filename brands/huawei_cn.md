@@ -291,6 +291,10 @@
 
 `DEL-AL20`: HUAWEI Mate X7 典藏版
 
+**HUAWEI Mate XT 2 非凡大师:**
+
+`LAP-AL10`: HUAWEI Mate XT 2 非凡大师
+
 ## HUAWEI P / Pura 系列
 
 **华为 Ascend P1:**
@@ -520,6 +524,10 @@
 `HOP-AL00`: HUAWEI Pura X Max
 
 `HOP-AL10`: HUAWEI Pura X Max 典藏版
+
+**HUAWEI Pura X View:**
+
+`VOL-AL00`: HUAWEI Pura X View
 
 ## HUAWEI Pocket 系列
 
@@ -1374,6 +1382,12 @@
 `LRT-W20`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 
 `LRT-W30`: HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
+
+**HUAWEI MatePad Air:**
+
+`WKI-W00`: HUAWEI MatePad Air 12 英寸 2026 悦享款 Wi-Fi 版
+
+`WKI-W10`: HUAWEI MatePad Air 12 英寸 2026 Wi-Fi 版
 
 ## HUAWEI MatePad 系列
 
@@ -2331,6 +2345,34 @@
 
 `HD1XEDIJ`: 华为智慧屏 MateTV Max 110 英寸
 
+**华为智慧屏 MateTV 2:**
+
+`HD65EDIN`: 华为智慧屏 MateTV 2 65 英寸
+
+`HD65FARN`: 华为智慧屏 MateTV 2 悦享版 65 英寸
+
+`HD75EDIN`: 华为智慧屏 MateTV 2 75 英寸
+
+`HD75FARN`: 华为智慧屏 MateTV 2 悦享版 75 英寸
+
+`HD8XEDIN`: 华为智慧屏 MateTV 2 85 英寸
+
+`HD8XFARN`: 华为智慧屏 MateTV 2 悦享版 85 英寸
+
+`HD98EDIN`: 华为智慧屏 MateTV 2 98 英寸
+
+**华为智慧屏 MateTV 2 Pro:**
+
+`HD75EDIM`: 华为智慧屏 MateTV 2 Pro 75 英寸
+
+`HD8XEDIM`: 华为智慧屏 MateTV 2 Pro 85 英寸
+
+`HD98EDIM`: 华为智慧屏 MateTV 2 Pro 98 英寸
+
+**华为智慧屏 MateTV 2 Max:**
+
+`HD1XEDIM`: 华为智慧屏 MateTV 2 Max 110 英寸
+
 **华为智慧屏 S 系列 (`Kant`):**
 
 `HD55KANB`: 华为智慧屏 S 55 60Hz (3GB+16GB)
@@ -2591,11 +2633,19 @@
 
 `HD6XWATN`: 华为 Vision 智慧屏 6 65
 
+`HD1XWATN`: 华为 Vision 智慧屏 6 悦享版 65
+
 `HD7XWATN`: 华为 Vision 智慧屏 6 75
+
+`HD77WATN`: 华为 Vision 智慧屏 6 悦享版 75
 
 `HD8XWATN`: 华为 Vision 智慧屏 6 85
 
+`HD85WATN`: 华为 Vision 智慧屏 6 悦享版 85
+
 `HD9XWATN`: 华为 Vision 智慧屏 6 98
+
+`HD98WATN`: 华为 Vision 智慧屏 6 悦享版 98
 
 **华为 Vision 智慧屏 6 SE:**
 
@@ -2699,6 +2749,18 @@
 
 `RTS-AL00`: HUAWEI WATCH 5 46mm / HUAWEI WATCH 十周年款 46mm
 
+**HUAWEI WATCH 6:**
+
+`LEB-AL00`: HUAWEI WATCH 6 42mm
+
+`NIZ-AL00`: HUAWEI WATCH 6 46mm
+
+**HUAWEI WATCH 6 Pro:**
+
+`LEB-AL10`: HUAWEI WATCH 6 Pro 43mm
+
+`NIZ-AL00`: HUAWEI WATCH 6 Pro 46mm
+
 **HUAWEI WATCH Ultimate:**
 
 `CLB-B19`: HUAWEI WATCH Ultimate 非凡大师
@@ -2709,7 +2771,7 @@
 
 **HUAWEI WATCH Ultimate 2:**
 
-`MCH-AL00`: HUAWEI WATCH Ultimate 2 非凡探索
+`MCH-B39` `MCH-AL00`: HUAWEI WATCH Ultimate 2 非凡探索
 
 **HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 
@@ -2916,6 +2978,10 @@
 **华为擎云 H3540 (`Seiya`):**
 
 `SYA-B19B`: 华为擎云 H3540
+
+**华为擎云 H3550:**
+
+`NKI-B19B`: 华为擎云 H3550
 
 **华为擎云 H3Y10 (`Solo`):**
 
